@@ -12,4 +12,4 @@ https://github.com/gedsic/tumbdl was used to downdload all images from the tumbl
 
 Please let me know if there is anything else that may fit into this archive, or feel free to create a pull request.
 
-contact me on twitter @r3l0z
+contact me on twitter [@r3l0z](https://twitter.com/r3l0z)
